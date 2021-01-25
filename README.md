@@ -1,5 +1,3 @@
-### I Craft Stunning Digital Experiences.
-
 Philip Kuo is a software engineer with a passion for human-centered design. He designs and develops intuitive products with great attention to detail.
 
 He currently works at Moshi, and previously at Caterpillar and DeepWalk Research. He founded PKGamma Digital Agency, organized a TEDx, and helped put together HackIllinois and the RP Tech Conference.
