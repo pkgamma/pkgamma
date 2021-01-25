@@ -1,4 +1,4 @@
-## I Craft Stunning Digital Experiences.
+### I Craft Stunning Digital Experiences.
 
 Philip Kuo is a software engineer with a passion for human-centered design. He designs and develops intuitive products with great attention to detail.
 
