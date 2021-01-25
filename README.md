@@ -1,4 +1,10 @@
-### Hi there 👋
+## I Craft Stunning Digital Experiences.
+
+Philip Kuo is a software engineer with a passion for human-centered design. He designs and develops intuitive products with great attention to detail.
+
+He currently works at Moshi, and previously at Caterpillar and DeepWalk Research. He founded PKGamma Digital Agency, organized a TEDx, and helped put together HackIllinois and the RP Tech Conference.
+
+In the meantime, he's pursuing a Computer Science degree from the University of Illinois at Urbana Champaign. At school, he’s developing at Hack4Impact to empower non-profits that are doing meaningful work to communities.
 
 <!--
 **pkgamma/pkgamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
